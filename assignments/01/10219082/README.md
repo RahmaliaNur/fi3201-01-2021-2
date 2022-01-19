@@ -7,6 +7,6 @@ NIM  <fill your student identification number>
 ```
 # answer
 ```
-NAME <Rahmalia Nur Azizah>
-NIM  <10219082>
+NAME Rahmalia Nur Azizah
+NIM  10219082
 ```
