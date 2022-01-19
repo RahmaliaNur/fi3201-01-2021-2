@@ -7,10 +7,6 @@ for i in [0, 1, 2, 3, 4]:
 
 # answer
 ```
-for i in [0, 1, 2, 3, 4]:
-  print("Hello world!", i, "time")
-```
-```
 Hello world! 0 time
 Hello world! 1 time
 Hello world! 2 time
@@ -18,4 +14,4 @@ Hello world! 3 time
 Hello world! 4 time
 ```
 
-checked at [3xqszjuy3](https://onecompiler.com/python/3xqszjuy3)
+Tested at OneCompiler [3xqszjuy3](https://onecompiler.com/python/3xqszjuy3)
